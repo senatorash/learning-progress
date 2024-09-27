@@ -1,0 +1,24 @@
+@import "variables";
+
+.text {
+    color: $textColor;
+    font-size: $fontSize;
+}
+
+.p-text {
+    color: $textColor;
+    font-size: $fontSize;
+}
+
+.h-text {
+    color: $textColor;
+    font-size: $fontSize;
+}
+
+.hero-section {
+    @include sectionProps();
+}
+
+.product-section {
+    @include sectionProps();  
+}

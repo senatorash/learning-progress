@@ -1,0 +1,23 @@
+{
+  "name": "email-sender-app",
+  "version": "1.0.0",
+  "description": "A simple email sender apllication with goggle smtp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server",
+    "dev": "nodemon src/server"
+  },
+  "author": "Ashimi Seide",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "googleapis": "^140.0.1",
+    "nodemailer": "^6.9.14",
+    "perfect-express-sanitizer": "^2.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

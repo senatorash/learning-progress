@@ -1,0 +1,21 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#color-box {
+  width: 200px;
+  height: 200px;
+  background-color: #f0f0f0;
+  display: inline-block;
+  margin: 0 auto;
+}
+
+#change-color-btn {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

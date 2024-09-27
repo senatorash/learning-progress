@@ -1,0 +1,30 @@
+.text {
+  color: aqua;
+  font-size: 3em;
+}
+
+.p-text {
+  color: aqua;
+  font-size: 3em;
+}
+
+.h-text {
+  color: aqua;
+  font-size: 3em;
+}
+
+.hero-section {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: 30px auto;
+  align-items: center;
+}
+
+.product-section {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: 30px auto;
+  align-items: center;
+}/*# sourceMappingURL=styles.css.map */

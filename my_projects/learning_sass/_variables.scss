@@ -1,0 +1,10 @@
+$fontSize: 3em;
+$textColor: aqua;
+
+@mixin sectionProps() {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 30px auto;
+    align-items: center;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "my first http server with nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashimi Seide",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
